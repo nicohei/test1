@@ -1,0 +1,78 @@
+.toppen{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+.about{
+    padding: 0px 20px;
+}
+.toppen1{
+    display: flex;
+    justify-content: flex-start;
+}
+.toppen2{
+    display: flex;
+    justify-content: flex-end;
+}
+.images{
+    padding: 0px 20px;
+}
+.apps{
+    width: 35px;
+    padding-right: 20px;
+}
+.blue{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.google{
+    padding-top: 80px;
+    margin-bottom: 20px;
+}
+.search{
+    width: 450px;
+    border: none;
+    outline-style: none;
+}
+.glass{
+    width: 30px;
+}
+.bar{
+    display: flex;
+    padding: 10px;
+    border: solid 1px gray;
+    border-radius: 30px;
+}
+.microphone{
+    width: 20px;
+    margin-right: 15px;
+}
+.google_search{
+    background-color: lightgray;
+    padding: 10px 20px;
+    color: gray;
+}
+.gambling{
+    background-color: lightgray;
+    padding: 10px 20px;
+    color: gray;
+    margin-left: 20px;
+}
+.boxes{
+    display: flex;
+}
+.languages{
+    display: flex;
+}
+.english{
+    color: blue;
+    border-bottom: solid blue 2px;
+    margin-left: 4px;
+}
