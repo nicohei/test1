@@ -1,7 +1,6 @@
 .toppen{
     display: flex;
     justify-content: space-between;
-    padding: 20px 0px;
 }
 .about{
     padding: 0px 20px;
@@ -75,4 +74,43 @@
     color: blue;
     border-bottom: solid blue 2px;
     margin-left: 4px;
+}
+.bottom{
+    margin-top: 95px;
+    margin-left: 0px;
+    background-color: lightgray;
+}
+.end{
+    display: flex;
+    justify-content: space-between;
+}
+.end_right{
+    display: flex;
+    justify-content: flex-start;
+}
+.end_left{
+    display: flex;
+    justify-content: flex-end;
+}
+.advertising{
+    padding: 0px 20px;
+}
+.business{
+    padding: 0px 20px;
+}
+.how{
+    padding: 0px 20px;
+}
+.privacy{
+    padding: 0px 20px;
+}
+.terms{
+    padding: 0px 20px;
+}
+.settings{
+    padding: 0px 20px;
+}
+.norge{
+    padding: 15px 20px;
+    border-bottom: solid 2px gray;
 }
